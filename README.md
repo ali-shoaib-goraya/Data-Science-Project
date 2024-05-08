@@ -1,10 +1,10 @@
 # Pakistan Aisa Q hai?
 
-Welcome to the "Pakistan Aisa Q hai?" data science project! This project aims to explore various indicators to understand the status of Pakistan compared to other countries. It involves data analysis, visualization, and ranking based on different factors.
+Welcome to the "Pakistan Aisa Q hai?" data science semester project! This project explores various indicators to understand Pakistan's status compared to other countries. It involves data analysis, visualization, and ranking based on different factors.
 
 ## Overview
 
-The project is open source and welcomes contributions from the community. It utilizes Python for data processing and analysis, including functions to calculate averages, replace zeros with averages, find maximum and minimum values, and sort data. The data is sourced from a CSV file using the pandas library.
+This project is part of a semester assignment and aims to demonstrate skills in data analysis and visualization using Python. The code analyzes a dataset containing various socio-economic indicators and provides insights into Pakistan's position globally.
 
 ## Project Structure
 
@@ -22,7 +22,7 @@ The project is open source and welcomes contributions from the community. It uti
 
 ## Contributing
 
-We welcome contributions from the community! Whether it's fixing bugs, adding new features, or improving documentation, every contribution is valuable. Feel free to fork this repository, make your changes, and submit a pull request.
+As this is a semester project, contributions are not expected. However, if you have suggestions or improvements, feel free to share them with your classmates or instructor.
 
 ## Dependencies
 
@@ -32,4 +32,4 @@ We welcome contributions from the community! Whether it's fixing bugs, adding ne
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+This project is for educational purposes and does not require a specific license.

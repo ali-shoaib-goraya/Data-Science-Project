@@ -8,16 +8,15 @@ This project is part of a semester assignment and aims to demonstrate skills in 
 
 ## Project Structure
 
-- `data_analysis.py`: Contains the main code for data processing, analysis, and visualization.
+- `Final Project.py`: Contains the main code for data processing, analysis, and visualization.
 - `Gapminder.csv`: CSV file containing the dataset used for analysis.
 - `README.md`: This file providing an overview of the project.
-- `requirements.txt`: List of required Python libraries.
 
 ## Usage
 
 1. Ensure you have Python installed on your system.
-2. Install the required libraries using `pip install -r requirements.txt`.
-3. Run `data_analysis.py` to execute the data analysis and visualization.
+2. Install the required libraries using `pip install pandas and pip install matplotlib
+3. Run `Final Project.py` to execute the data analysis and visualization.
 4. Follow the prompts to select the analysis type and view the results.
 
 ## Contributing

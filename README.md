@@ -1,4 +1,3 @@
-# Data-Science-Project
 # Pakistan Aisa Q hai?
 
 Welcome to the "Pakistan Aisa Q hai?" data science project! This project aims to explore various indicators to understand the status of Pakistan compared to other countries. It involves data analysis, visualization, and ranking based on different factors.
@@ -12,8 +11,7 @@ The project is open source and welcomes contributions from the community. It uti
 - `data_analysis.py`: Contains the main code for data processing, analysis, and visualization.
 - `Gapminder.csv`: CSV file containing the dataset used for analysis.
 - `README.md`: This file providing an overview of the project.
-- `CONTRIBUTING.md`: Guidelines for contributing to the project.
-- `LICENSE`: License information for the project.
+- `requirements.txt`: List of required Python libraries.
 
 ## Usage
 
@@ -24,7 +22,7 @@ The project is open source and welcomes contributions from the community. It uti
 
 ## Contributing
 
-We welcome contributions from the community! Whether it's fixing bugs, adding new features, or improving documentation, every contribution is valuable. Please refer to the [CONTRIBUTING.md](CONTRIBUTING.md) file for guidelines on how to contribute.
+We welcome contributions from the community! Whether it's fixing bugs, adding new features, or improving documentation, every contribution is valuable. Feel free to fork this repository, make your changes, and submit a pull request.
 
 ## Dependencies
 
@@ -32,14 +30,6 @@ We welcome contributions from the community! Whether it's fixing bugs, adding ne
 - pandas
 - matplotlib
 
-## Contributors
-
-- [Your Name/Username]
-- [Contributor 1]
-- [Contributor 2]
-- ...
-
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
-
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.

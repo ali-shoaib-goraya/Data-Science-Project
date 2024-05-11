@@ -4,7 +4,7 @@ Welcome to the "Pakistan Aisa Q hai?" data science semester project! This projec
 
 ## Overview
 
-This project is part of a semester assignment and aims to demonstrate skills in data analysis and visualization using Python. The code analyzes a dataset containing various socio-economic indicators and provides insights into Pakistan's position globally.
+This project is my first semester project of Course Quantitative and Computational Reasoning and aims to demonstrate skills in data analysis and visualization using Python. The code analyzes a dataset containing various socio-economic indicators and provides insights into Pakistan's position globally.
 
 ## Project Structure
 

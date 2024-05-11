@@ -9,6 +9,7 @@ This project is my first semester project of Course Quantitative and Computation
 ## Project Structure
 
 - `Final Project.py`: Contains the main code for data processing, analysis, and visualization.
+-  `Final_Project_Report.pdf`: Acomprehensive Report of Analysis done by our Team.
 - `Gapminder.csv`: CSV file containing the dataset used for analysis.
 - `README.md`: This file providing an overview of the project.
 
@@ -19,16 +20,14 @@ This project is my first semester project of Course Quantitative and Computation
 3. Run `Final Project.py` to execute the data analysis and visualization.
 4. Follow the prompts to select the analysis type and view the results.
 
-## Contributing
+## Contributions:
 
-As this is a semester project, contributions are not expected. However, if you have suggestions or improvements, feel free to share them with your classmates or instructor.
+As this is a semester project, So we worked in Group of three members. Each individual has contributed to achieve the the Result.
 
 ## Dependencies
 
-- Python 3.x
+- Python 
 - pandas
 - matplotlib
 
-## License
 
-This project is for educational purposes and does not require a specific license.
